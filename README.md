@@ -1,1 +1,1 @@
-Exercício em HTML e CSS desenvolvimento durante curso na Alura.
+Exercício em HTML e CSS desenvolvido durante curso na Alura.
